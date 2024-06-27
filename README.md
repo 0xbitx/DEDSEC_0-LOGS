@@ -16,17 +16,11 @@ DEDSEC_0-LOGS is a logs security tool designed to securely erase sensitive logs 
 
    * Terminal-Based Interface: DEDSEC_0-LOGS provides a user-friendly terminal-based interface, making it easy to use and integrate into your workflow.
 
-### Usage:
-
-   * 
-   *
-   * 
-
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_0-LOGS.git
     * cd DEDSEC_0-LOGS
     * chmod +x dedsec_0logs
-    * ./dedsec_0logs
+    * sudo ./dedsec_0logs
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
