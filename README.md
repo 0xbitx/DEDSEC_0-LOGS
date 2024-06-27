@@ -21,6 +21,9 @@ DEDSEC_0-LOGS is a logs security tool designed to securely erase sensitive logs 
     * cd DEDSEC_0-LOGS
     * chmod +x dedsec_0logs
     * sudo ./dedsec_0logs
+    
+### oneline
+    wget -O dedsec_0logs https://github.com/0xbitx/DEDSEC_0-LOGS/raw/main/dedsec_0logs && sudo ./dedsec_0logs
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
